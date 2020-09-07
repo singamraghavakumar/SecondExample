@@ -71,8 +71,10 @@
     <Content Include="About.html" />
     <Content Include="Contact.html" />
     <Content Include="Global.asax" />
+    <Content Include="IDir\IPage1.html" />
     <Content Include="Index.html" />
     <Content Include="LogFile.txt" />
+    <Content Include="OurDir\Our.html" />
     <Content Include="OurStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
